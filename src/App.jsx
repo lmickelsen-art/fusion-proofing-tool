@@ -1,3 +1,1 @@
-export default function App() {
-  return <h1>Fusion Proofing Tool is Working!</h1>;
-}
+export default function App() { return <h1>Fusion Tool Works!</h1>; }
