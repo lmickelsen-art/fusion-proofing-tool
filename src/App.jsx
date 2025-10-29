@@ -1,1 +1,1 @@
-export default function App() { return <h1>Fusion Tool Works!</h1>; }
+export default function App() { return <h1>Fusion Tool: Vercel Ready</h1>; }
